@@ -53,7 +53,7 @@ dotnet ef database update
 
 # Run the application
 dotnet run
-
+```
 
 ## 🔒 User Roles
 | Role  | Permissions                 |
