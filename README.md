@@ -2,10 +2,13 @@
 
 A web-based game management system built with **ASP.NET Core MVC**, allowing users to perform full CRUD operations on a list of games. The application includes role-based authentication and a clean, responsive user interface.
 
-## 🚀 Demo
 
-Watch the live demo here:  
-[![GameZoneApp Demo](https://github.com/user-attachments/assets/c9c7d04b-f6cd-45a4-9f05-fbb6c2d7bf28)](https://github.com/user-attachments/assets/c9c7d04b-f6cd-45a4-9f05-fbb6c2d7bf28)
+## 🚀 Live Demo
+
+Curious to see how **GameZoneApp** works?  
+Click the video below to watch the live demo in action! 👇
+
+[![Watch the Demo](https://github.com/user-attachments/assets/c9c7d04b-f6cd-45a4-9f05-fbb6c2d7bf28)](https://github.com/user-attachments/assets/c9c7d04b-f6cd-45a4-9f05-fbb6c2d7bf28)
 
 
 
@@ -57,8 +60,9 @@ dotnet run
 
 ## 📧 Contact
 For any feedback or inquiries:
-GitHub: @shahdyassin
-Email: shahdyassin63@gmail.com
+- GitHub: @shahdyassin
+- Email: shahdyassin63@gmail.com
+  
 ## ⭐️ Show Your Support
 If you like this project, consider leaving a ⭐️ on the repository!
 
