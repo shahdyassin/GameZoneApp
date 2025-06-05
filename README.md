@@ -63,7 +63,7 @@ dotnet run
 
 ## 📧 Contact
 For any feedback or inquiries:
-- GitHub: @shahdyassin
+- GitHub: https://github.com/shahdyassin
 - Email: shahdyassin63@gmail.com
   
 ## ⭐️ Show Your Support
