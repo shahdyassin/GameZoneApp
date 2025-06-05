@@ -39,18 +39,21 @@ Click the video below to watch the live demo in action! 👇
 
 ## 🧑‍💻 Getting Started
 
-### Installation
+To get the project running locally, follow the steps below:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shahdyassin/GameZoneApp.git
-   cd GameZoneApp
+### ⚙️ Setup & Run
 
-## Run Database Migrations
+```bash
+# Clone the repository
+git clone https://github.com/shahdyassin/GameZoneApp.git
+cd GameZoneApp
+
+# Apply database migrations
 dotnet ef database update
 
-## Run the Application
+# Run the application
 dotnet run
+
 
 ## 🔒 User Roles
 | Role  | Permissions                 |
